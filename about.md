@@ -14,4 +14,6 @@ I would love for you to visit this blog and get some inspiration and perspective
 Warm regards,
 Gershom James
 
+P.S. - I would like to thank and credit my friend [Jacob](https://github.com/jacobzymet), who inspired me to start this up to help share my thoughts and ideas with the world.
+
 **DISCLAMER:** I only wish to share my thoughts and opinions therfore, if you find anything to be offensive or personally disagree on a certain topic, you are most welcome to click/tap out of this site.
