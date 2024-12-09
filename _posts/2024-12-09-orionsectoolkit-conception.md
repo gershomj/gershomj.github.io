@@ -13,3 +13,5 @@ As of the writing of this post, I publicly admit that my knowledge in cyber secu
 I would like for these tools help whoever needs an easier way to get tedious tasks done so that they can focus more on tasks that are less time consuming. I believe that time isn't money but that creativity is money, the reason being that time is limited, but creativity is unlimited, which is why I aim to create tools that save time, so everyone can focus on being creative and using their beautifully wonderful and complex brains.
 
 I will try to document struggles that I face during the development phase of this project as a whole, and the development of the individual tools contained within these tools, and hopefully I have the time to share the information that I learned along the way!
+
+Au revoir :)
